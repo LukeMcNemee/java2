@@ -1,6 +1,6 @@
 % Java 02 (objekty)
 % Luke McNemee
-% 2014
+% 2016
 
 # Objekt - motivace
 
