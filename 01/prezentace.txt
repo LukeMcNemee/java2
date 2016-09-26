@@ -1,0 +1,176 @@
+% Java 01
+% Lukáš Němec
+% 2016
+
+-----
+
+##Java je
+
+* jazyk třetí generace (stejně jako C, C#, Pascal ...)
+* objektově orientovaný jazyk - OOP (stejně jako C++, C#, Delphi ...)
+* jednodušší než C++, srovnatelná s C#
+* Case sensitive - rozlišuje velikost písmen
+
+-----
+
+# Rychlost
+
+* pomalejší než kompilované jazyky (C, C++)
+* srovnatelná s ostatními Just in Time kompilovanými jazyky (C#)
+* rychlejší než jazyky bez kompilátoru (Python, Ruby, PHP)
+
+-----
+
+# JVM
+
+* umožňuje multiplatformní programy
+* výstupem překladače je mezikód (bytecode), který je JVM zpracováván
+* provádí překlad mezikódu do strojového kódu
+* je součástí JRE
+
+-----
+
+# JRE vs JDK
+
+* JRE < JDK
+* JRE umožňuje Javu spustit
+* JDK umožňuje Javu vyvíjet
+
+-----
+
+# Použití Javy
+
+* konzolové a grafické aplikace
+* webové stránky
+* aplikace pro telefony
+* JavaCard
+
+-----
+
+# O čem to bude
+
+* základy OOP
+* konzolové aplikace
+* základní prvky Javy a jak je správně používat
+* nějaká matematika
+* samostatný projekt?
+* ???
+
+-----
+
+# O čem to nebude (zatím)
+
+* Swing (grafické aplikace)
+* webové aplikace
+* aplikace pro telefony
+* JavaCard
+
+-----
+
+
+# Vývojová prostředí
+
+* NetBeans
+* Eclipse
+* IntelliJ IDEA
+
+## Ostatní možnosti
+* Textový editor
+* BlueJ
+
+-----
+
+# LukeMcNemee.eu
+
+* sekce lužánky info - Java
+* návod k Javě co nainstalovat a různé alternativy
+* snad pravidelně obsah jednotlivých hodin
+* snad řešení jednotlivých úloh z hodin
+* většinou formou odkazů na GitHub
+
+-----
+
+# Hello word
+
+
+
+-----
+
+# Hello world II.
+
+
+-----
+
+
+# Dotazník
+
+-----
+
+# Programování
+
+* Pascal, C
+* Dynamická alokace
+* OOP
+* SQL
+* XML
+* web (HTML ...)
+* grafické aplikace
+
+-----
+
+# Matematika
+
+* obsahy, obvody atd. (kužel ..)
+* prvočísla
+* mocniny, faktoriál
+* kombinatorika, pravděpodobnost
+
+-----
+
+# Crypto
+
+* primitivní (Caesar, rot13 ...)
+* velká prvočísla
+* RSA, AES ...
+
+-----
+
+##Verzovací nástroje
+
+* SVN
+* Git
+
+##Angličtina
+* na úrovni Get, isEmpty, remove ...
+* názvy funkcí, proměnných
+* pochopit základ z JavaDoc
+
+-----
+
+*
+*
+*
+*
+
+-----
+
+*
+*
+*
+*
+
+-----
+
+*
+*
+*
+*
+
+-----
+
+*
+*
+*
+*
+
+-----
