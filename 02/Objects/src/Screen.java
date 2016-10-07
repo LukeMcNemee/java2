@@ -9,22 +9,22 @@
  * @author lukemcnemee
  */
 public class Screen {
-    private int resX;
+    private int resZ;
     private int resY;
     private String brand;
 
     public Screen(int resX, int resY, String brand) {
-        this.resX = resX;
+        this.resZ = resX;
         this.resY = resY;
         this.brand = brand;
     }    
     
-    public int getResX() {
-        return resX;
+    public int getResZ() {
+        return resZ;
     }
 
-    public void setResX(int resX) {
-        this.resX = resX;
+    public void setResZ(int resZ) {
+        this.resZ = resZ;
     }
 
     public int getResY() {
@@ -47,10 +47,11 @@ public class Screen {
     
     
     public int getPixelsCount(){
-        return resX*resY;
+        return resZ*resY;
     }
     
     public void printInfo(){
-        System.out.println("Monitor by brand: "+ brand + ", with resolution: "+ resX + "x" + resY);
+        System.out.println("Monitor by brand: "+ brand +
+                ", with resolution: "+ resZ + "x" + resY);
     }
 }
